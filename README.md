@@ -36,7 +36,7 @@ To run this application on Windows, you must install the **GTK3 Runtime Engine**
 
 4. **Install the required packages:**
    ```bash
-   pip install -r requirements.txt
+   pip install customtkinter weasyprint
    ```
 
 ## 🚀 How to Run
